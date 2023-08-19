@@ -1,3 +1,5 @@
+Hosted here: https://activity-finder.onrender.com/
+
 This website finds random activities for one to do when bored. It lets you specify the type of activity you're interested in and also the number of people you want to do it with. It fetches the data from Bored API and uses Axios package to make requests to the API.
 
 Bored API => https://www.boredapi.com/ 
